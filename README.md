@@ -52,7 +52,8 @@ A curated collection of top GitHub repositories organized by category:
 7. [catboost/catboost](https://github.com/catboost/catboost) – Gradient boosting  
 8. [huggingface/transformers](https://github.com/huggingface/transformers) – Transformer models (NLP)  
 9. [fastai/fastai](https://github.com/fastai/fastai) – High-level deep learning library  
-10. [mlflow/mlflow](https://github.com/mlflow/mlflow) – ML lifecycle & experimentation  
+10. [mlflow/mlflow](https://github.com/mlflow/mlflow) – ML lifecycle & experimentation
+11. [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 ---
 
@@ -66,7 +67,10 @@ A curated collection of top GitHub repositories organized by category:
 7. [fastai/fastai](https://github.com/fastai/fastai) – DS + ML workflows  
 8. [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) – Foundational ML / DS library  
 9. [pandas-dev/pandas](https://github.com/pandas-dev/pandas) – Data manipulation  
-10. [numpy/numpy](https://github.com/numpy/numpy) – Numerical computation  
+10. [numpy/numpy](https://github.com/numpy/numpy) – Numerical computation
+11. [data-scientist-handbook](https://github.com/andresvourakis/data-scientist-handbook)
+12. [cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science)
+13. [data-science-template](https://github.com/CodeCutTech/data-science-template)
 
 ---
 
