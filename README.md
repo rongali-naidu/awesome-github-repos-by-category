@@ -99,7 +99,13 @@ A curated collection of top GitHub repositories organized by category:
 8. [LangChainAI/langchain](https://github.com/hwchase17/langchain) – Build agentic applications using LLMs  
 9. [HayAI/agentic-workflows](https://github.com/HayAI/agentic-workflows) – Orchestrate multi-agent RAG pipelines  
 10. [retrieval-augmented-generation](https://github.com/topics/retrieval-augmented-generation) – Collection of RAG projects  
+11. [https://academy.openai.com/] OpenAI Academy 
+12. [https://www.anthropic.com/learn/claude-for-you] Anhtropic Claude 
+13. [https://edu.google.com/intl/ALL_us/ai/education/] Google AI 
+14. [https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf] a-practical-guide-to-building-agents
+15. [https://www.youtube.com/watch?v=7xTGNNLPyMI&t=1s] Deep Dive into LLMs like ChatGPT
 
+ 
 ---
 
 ## Database Engineering
